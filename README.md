@@ -1,5 +1,4 @@
 <p align="center">
-  <strong>Grupo</strong><br>
   <img src="https://dmimagens.s3-us-west-1.amazonaws.com/dm-vagas/dm-logo-vagas.svg" alt="HURB" width="330" />
 </p>
 
@@ -15,11 +14,9 @@ Todos nós estamos focados em olhar a jornada das nossas personas e construir pr
 O time de DEVMUCH é distribuído em **squads multidisciplinares** (PM, UX, QA, devs mobile, devs frontend e devs backend) e **squads cross** (Payments e Plataforma), que atendem de forma transversal os demais squads. 
 
 <p align="center">
-<img src="https://dmimagens.s3-us-west-1.amazonaws.com/dm-vagas/logo-devmuch.png"/ style="width:150px;padding-bottom: 10px" align="left">
+<img src="https://dmimagens.s3-us-west-1.amazonaws.com/dm-vagas/logo-devmuch.png" width="150px" align="left"/>
 <img src="https://dmimagens.s3-us-west-1.amazonaws.com/dm-vagas/devmuch-team.jpg" title="made at imgflip.com"/>
 </p>
-
-Trabalhamos com diversas tecnologias, como Kotlin, Swift, Vue.JS, Angular, NodeJS, GO, Kubernetes, com infraestrutura 100% hospedada na nuvem (AWS).
 
 Trabalhamos com diversas tecnologias, como Kotlin, Swift, Vue.JS, Angular, NodeJS, GO, Kubernetes, com infraestrutura 100% hospedada na nuvem (AWS).
 # Vagas
